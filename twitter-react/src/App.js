@@ -1,8 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import TweetsPage from "./pages/tweets/TweetsPage";
 
 function App() {
-  return <div className="App"> Hello Cristobal </div>
+  return <TweetsPage />
 }
 
 export default App;
